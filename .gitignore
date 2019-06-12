@@ -1,0 +1,13 @@
+# Bad Mac 
+.DS_Store
+
+# Uploaded to google drive
+*.m4v
+*.mov
+
+# Bad VsCode
+.vscode/*
+
+# Bad Python
+*.pyc
+__pycache__
