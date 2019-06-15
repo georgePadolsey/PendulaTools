@@ -4,6 +4,7 @@
 # Uploaded to google drive
 *.m4v
 *.mov
+*.avi
 
 # Bad VsCode
 .vscode/*
